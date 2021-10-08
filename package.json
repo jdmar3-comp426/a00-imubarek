@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jdmar3-comp426/a00-imubarek/issues"
   },
-  "homepage": "https://github.com/jdmar3-comp426/a00-imubarek#readme"
+  "homepage": "https://github.com/jdmar3-comp426/a00-imubarek#readme",
+  "dependencies": {
+    "browser-sync": "^2.27.5"
+  }
 }
